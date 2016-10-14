@@ -1,6 +1,6 @@
 # company
 
-FIXME
+Just a project to play with compojure
 
 ## Prerequisites
 
